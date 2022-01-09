@@ -1,0 +1,13 @@
+server:
+  greeting-text: Hi from Config Server
+  list: shounak-india-server1, shounak-india-server324, shounak-india-server421
+
+database-info:
+  connection: no-database-connected-by-shounak
+  host: 127.0.0.1
+  port: 8082
+
+other-server-link:
+  xserverMS: abc.com
+  yserverMS: xyz.com
+  zserverMS: mno.com
